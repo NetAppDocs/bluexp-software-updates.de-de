@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Beheben Sie ONTAP-Blocker und bestätigen Sie Warnungen, die verhindern, dass Sie das ONTAP-Update abschließen. 
+---
+= ONTAP-Blocker beheben und bestätigen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Nachdem Sie die ONTAP Zielversion für Ihr ONTAP Storage-System ermittelt haben, sollten Sie alle Blocker reparieren und bestätigen sowie die Warnungen vor dem Aktualisieren des ONTAP Storage-Systems prüfen.
+
+Das Beheben und Quittieren aller Blocker ist obligatorisch und gewährleistet einen nahtlosen Softwareupdateprozess.
+
+.Schritte
+. Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.
++
+Die Liste der Cluster, für die ein Softwareupdate erforderlich ist, wird angezeigt.
+
+. Ermitteln Sie die ONTAP Zielversion für Ihr Storage-System. Informationen zur Identifizierung der ONTAP-Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Wählen Sie ONTAP Target Version 9.10 oder höher aus"].
+. Nachdem Sie sich für die ONTAP-Zielversion entschieden haben, klicken Sie auf *Update vorbereiten*, um den Update-Prozess zu starten.
++
+Die Liste der Blocker und Warnungen wird angezeigt.
+
+. Wählen Sie den Blocker aus, um die Anweisungen zum Beheben des Blocker anzuzeigen.
+. Führen Sie die angegebenen Schritte zum Beheben des Blocker manuell aus.
+. Wählen Sie die Blockierer aus, die behoben wurden, und klicken Sie auf *Auswahl bestätigen*, um zu bestätigen, dass Blockierer behoben wurden.
+
+
+
+NOTE: Sie müssen alle Blocker beheben und bestätigen, um mit der Aktualisierung fortzufahren.
+
+. Klicken Sie auf die Registerkarte *Warnungen*, um die Warnungen zu überprüfen, bevor Sie mit dem Softwareupdate fortfahren.
+. Klicken Sie auf die Registerkarte *quittieren*, um die Blockierer anzuzeigen, die behoben wurden.
+. Klicken Sie auf *Weiter zum Aktualisieren*, um mit dem Update-Vorgang fortzufahren.
+

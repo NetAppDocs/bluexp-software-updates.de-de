@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/update-storage-system.html 
+keywords: update ontap storage system 
+summary: Aktualisieren Sie Ihr ONTAP Storage-System, um von den neuen und verbesserten Funktionen zu profitieren. 
+---
+= Schließen Sie die Aktualisierung des ONTAP Storage-Systems ab
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Nachdem Sie die ONTAP Zielversion identifiziert und alle Blocker behoben haben und sie bestätigt haben, können Sie nun die Aktualisierung Ihres ONTAP Storage-Systems abschließen.
+
+.Schritte
+. Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.
++
+Die Liste der Cluster, für die ein Softwareupdate erforderlich ist, wird angezeigt.
+
+. Ermitteln Sie die ONTAP Zielversion für Ihr Storage-System. Informationen zur Identifizierung der ONTAP-Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Wählen Sie ONTAP Target Version 9.10 oder höher aus"].
+. Beheben und Bestätigen der ONTAP-Blocker Informationen zum Festsetzen von Blockern finden Sie unter link:../ONTAP/fix-blockers-warnings.html["ONTAP-Blocker beheben und bestätigen"].
+. Lesen und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung.
++
+Warten Sie, bis das ONTAP-Image abgerufen wurde.
+
+. Klicken Sie auf *Update installieren*, um den Aktualisierungsvorgang abzuschließen.
+

@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/choose-ontap-910-later.html 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+summary: Informieren Sie sich vor einem Upgrade Ihres ONTAP Storage-Systems über die Vorteile und Risiken der einzelnen ONTAP Versionen. 
+---
+= Wählen Sie ONTAP Target Version 9.10 oder höher aus
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Bevor Sie sich für die ONTAP-Version für das Storage-System entscheiden, ist es sehr wichtig, die Vorteile zu identifizieren und die Risiken im Zusammenhang mit der ONTAP-Zielversion zu verstehen.
+
+Sie können die Zielversion auswählen und sie mit der aktuellen Version vergleichen, um die Vorteile eines Updates auf die spezifische Version von ONTAP zu verstehen. Sie sehen auch die Risiken, die gelöst werden, und die neuen Risiken (falls vorhanden), die beim Aktualisieren auf die spezifische Version von ONTAP entstehen.
+
+
+NOTE: Sie können diese Funktion nur verwenden, wenn Sie ONTAP 9.10 oder höher ausführen.
+
+.Schritte
+. Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.
++
+Die Liste der Cluster, für die ein Softwareupdate erforderlich ist, wird angezeigt. Sie können entweder auf die empfohlene Zielversion aktualisieren oder eine andere Version auswählen.
+
+
+
+|===
+| Sie suchen... | Tun Sie das... 
+
+
+ a| 
+Sie möchten auf die empfohlene Version aktualisieren
+ a| 
+. Klicken Sie in der Spalte *Zielversion* auf *Versionen vergleichen*, um die Vorteile und Risiken der Features anzuzeigen, die mit einem Update auf die empfohlene ONTAP-Version verbunden sind.
+. Wählen Sie Informationen zu den Risiken aus, die gelöst werden sollen, zu den Risiken, die weiterhin bestehen bleiben, und zu den neuen Risiken, die nach der Aktualisierung eingeführt werden.
+. Optional klicken Sie auf *Updateplan herunterladen*, um eine Kopie des Aktualisierungsplans herunterzuladen.
+. Klicken Sie auf *Update starten*, um den Aktualisierungsvorgang zu starten.
+
+
+
+
+ a| 
+Sie möchten eine andere Version auswählen
+ a| 
+. Klicken Sie in der Spalte *Zielversion* auf die Dropdown-Liste und wählen Sie *andere Versionen auswählen*.
+. Wählen Sie die Version aus, um die Vorteile und Risiken der Funktionen anzuzeigen.
+. Wählen Sie Informationen zu den Risiken aus, die gelöst werden sollen, zu den Risiken, die weiterhin bestehen bleiben, und zu den neuen Risiken, die nach der Aktualisierung eingeführt werden.
+. Optional klicken Sie auf *Updateplan herunterladen*, um eine Kopie des Aktualisierungsplans herunterzuladen.
+. Klicken Sie auf *Update starten*, um den Aktualisierungsvorgang zu starten.
+
+
+|===

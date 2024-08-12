@@ -1,0 +1,64 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates.html 
+keywords: ontap 9.10, ontap update, supported systems for ontap update, ontap version, software updates benefits 
+summary: Aktualisieren Sie Ihr ONTAP Storage-System nahtlos, um die Vorteile der neuen und verbesserten Funktionen über die BlueXP  Software-Updates zu nutzen. 
+---
+= Erfahren Sie mehr über BlueXP  Software-Updates
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie können Ihr ONTAP Storage-System mit den BlueXP  Software-Updates aktualisieren, um von den neuen und verbesserten Funktionen zu profitieren. Dies kann Ihnen dabei helfen, Kosten zu senken, kritische Workloads zu beschleunigen und die Sicherheit zu erhöhen.
+
+Mit dem BlueXP  Service für Softwareupdates können Kunden ONTAP-Updates optimieren. Und automatisiert die Bewertungs-, Planungs- und Ausführungsprozesse. Der intelligente Upgrade Advisor prognostiziert, welche Versionen am besten für die spezifische Umgebung geeignet sind. Er empfiehlt Versionen, um Probleme zu beheben, die Effizienz zu verbessern und die Systemsicherheit zu erhöhen. So können Kunden die beste Option für ihre Anforderungen ermitteln. Anschließend verteilt es das Softwarepaket und führt automatisch das automatisierte nicht-distributive Upgrade (ANDU) unabhängig von den Supportleistungen aus.
+
+
+
+== Unterstützte Systeme
+
+
+
+=== ONTAP Systeme
+
+Sie können das ONTAP-Update nur mit dem BlueXP -Softwareupdatedienst abschließen, wenn Sie ONTAP 9.10 oder höher ausführen.
+
+Die folgenden Informationen enthalten den Softwareupdateprozess für verschiedene ONTAP-Versionen:
+
+|===
+| *Aktuelle ONTAP-Version* | *Update-Prozess* 
+
+
+| 9.12 und höher | Alle Schritte des ONTAP-Updates finden innerhalb von BlueXP  statt. 
+
+
+| 9.10 bis 9.12 | Die Vorbereitung auf das ONTAP-Update erfolgt in den Bildschirmen für BlueXP -Softwareupdates. Sie werden zu System Manager navigiert, um das eigentliche ONTAP Update durchzuführen. Um alle Schritte des ONTAP-Updates in BlueXP  auszuführen, müssen Sie link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html["Richten Sie einen Anschluss ein"]. 
+
+
+| 9.8 bis 9.10 | Die Vorbereitung auf das ONTAP-Update erfolgt in den Bildschirmen für BlueXP -Softwareupdates. Sie werden zu System Manager navigiert, um das eigentliche ONTAP Update durchzuführen. 
+
+
+| Unter 9.7 | Das automatisierte ONTAP Update wird für diesen Cluster nicht unterstützt. Sie müssen ONTAP manuell aktualisieren. Weitere Informationen finden Sie unter link:https://docs.netapp.com/us-en/ontap/upgrade/index.html["Aktualisieren Sie Ihre Speichersysteme manuell"]. 
+|===
+
+
+== Vorteile der Verwendung von BlueXP  Software-Updates
+
+Mit der Aktualisierung Ihres ONTAP Storage-Systems können Sie die Performance, Sicherheit und Funktionalität Ihres Storage-Systems verbessern.
+
+Bei der Aktualisierung Ihres ONTAP Storage-Systems bieten sich folgende Vorteile:
+
+* Sie können auf die neuesten Funktionen und Verbesserungen von ONTAP zugreifen, beispielsweise neue Protokolle, Datenservices und Optionen zur Cloud-Integration.
+* Sie können alle Fehler oder Schwachstellen beheben, die sich auf die Stabilität, Zuverlässigkeit oder Sicherheit Ihres Systems auswirken können.
+* Sie können die Leistung und Effizienz Ihres Systems optimieren, indem Sie die neuesten Patches und Verbesserungen anwenden.
+* Sie gewährleisten Kompatibilität und Interoperabilität mit anderen NetApp Produkten, Applikationen von Drittanbietern und Cloud-Providern.
+* Sie profitieren von dem fortlaufenden Support und der Wartung, die NetApp für die aktuellen ONTAP Betriebssystemversionen bietet.
+
+
+
+
+== Kosten
+
+NetApp berechnet Ihnen keine Kosten für die Nutzung des Service.
