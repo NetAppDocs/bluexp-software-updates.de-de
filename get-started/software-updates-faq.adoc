@@ -31,7 +31,7 @@ Es dauert 2 bis 3 Stunden, bis das Cluster auf der Registerkarte „Verlauf“ a
 
 *Warum sehe ich verschiedene Bildschirme für verschiedene Updates?*
 
-Dies liegt an der aktuellen ONTAP-Version und der Nichtverfügbarkeit des BlueXP -Connectors für Cluster. Ein BlueXP -Connector führt das ONTAP-Update innerhalb von BlueXP  durch und erfordert nicht, dass Sie für ein Update aus BlueXP  wechseln müssen. Informationen über den ONTAP-Aktualisierungsprozess für verschiedene Versionen von ONTAP finden Sie unter link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Unterstützte ONTAP-Systeme"].
+Dies liegt an der aktuellen ONTAP-Version und der Nichtverfügbarkeit des BlueXP -Connectors für Cluster. Ein BlueXP -Connector führt das ONTAP-Update innerhalb von BlueXP  durch und erfordert nicht, dass Sie für ein Update aus BlueXP  wechseln müssen. Wenn Sie keinen BlueXP -Anschluss haben, werden Sie zu System Manager umgeleitet und müssen die ONTAP-Cluster-Anmeldedaten erneut eingeben. Informationen über den ONTAP-Aktualisierungsprozess für verschiedene Versionen von ONTAP finden Sie unter link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Unterstützte ONTAP-Systeme"].
 
 *Was brauche ich, um Cluster zu entdecken?*
 
