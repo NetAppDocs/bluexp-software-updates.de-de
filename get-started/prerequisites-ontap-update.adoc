@@ -15,8 +15,8 @@ Prüfen Sie zunächst die Betriebsumgebung, die Anmeldung, den Netzwerkzugriff u
 
 Um BlueXP  Software-Updates zu verwenden, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
 
-* Ein gültiges BlueXP -Konto sollte verfügbar sein.
-* Die Arbeitsumgebung ist in BlueXP  eingerichtet.
+* Eine BlueXP -Organisation ist verfügbar.
+* In BlueXP  wird eine Arbeitsumgebung eingerichtet.
 * Administrator-Privileges stehen zur Verfügung, um das Softwareupdate mithilfe von System Manager durchzuführen.
 * Administratoranmeldeinformationen sind für das gewünschte Cluster verfügbar, während das Softwareupdate durchgeführt wird.
 * Alle Nodes im Cluster senden AutoSupport-Daten.
