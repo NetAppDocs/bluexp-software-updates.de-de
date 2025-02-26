@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
 summary: Beheben Sie ONTAP-Blocker und bestätigen Sie Warnungen, die verhindern, dass Sie das ONTAP-Update abschließen. 
 ---
-= ONTAP-Blocker beheben und bestätigen
+= Beheben Sie alle Blocker, die BlueXP -Softwareupdates verwenden, bevor Sie ein ONTAP-Upgrade durchführen
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ Das Beheben und Quittieren aller Blocker ist obligatorisch und gewährleistet ei
 +
 Die Liste der Cluster, für die ein Softwareupdate erforderlich ist, wird angezeigt.
 
-. Ermitteln Sie die ONTAP Zielversion für Ihr Storage-System. Informationen zur Identifizierung der ONTAP-Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Wählen Sie ONTAP Target Version 9.10 oder höher aus"].
+. Ermitteln Sie die ONTAP Zielversion für Ihr Storage-System. Informationen zur Identifizierung der ONTAP-Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP Versionen, um sich mit BlueXP  Software Updates vor- und zurück zu informieren"].
 . Nachdem Sie sich für die ONTAP-Zielversion entschieden haben, klicken Sie auf *Update vorbereiten*, um den Update-Prozess zu starten.
 +
 Die Liste der Blocker und Warnungen wird angezeigt.

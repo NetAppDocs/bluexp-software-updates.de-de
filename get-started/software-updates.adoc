@@ -11,9 +11,9 @@ summary: Aktualisieren Sie Ihr ONTAP Storage-System nahtlos, um die Vorteile der
 
 
 [role="lead"]
-Sie können Ihr ONTAP Storage-System mit den BlueXP  Software-Updates aktualisieren, um von den neuen und verbesserten Funktionen zu profitieren. Dies kann Ihnen dabei helfen, Kosten zu senken, kritische Workloads zu beschleunigen und die Sicherheit zu erhöhen.
+Sie können den BlueXP  Software-Updates-Service verwenden, um ONTAP-Updates zu optimieren. Dies kann Ihnen dabei helfen, Kosten zu senken, kritische Workloads zu beschleunigen und die Sicherheit zu erhöhen.
 
-Mit dem BlueXP  Service für Softwareupdates können Kunden ONTAP-Updates optimieren. Und automatisiert die Bewertungs-, Planungs- und Ausführungsprozesse. Der intelligente Upgrade Advisor prognostiziert, welche Versionen am besten für die spezifische Umgebung geeignet sind. Er empfiehlt Versionen, um Probleme zu beheben, die Effizienz zu verbessern und die Systemsicherheit zu erhöhen. So können Kunden die beste Option für ihre Anforderungen ermitteln. Anschließend verteilt es das Softwarepaket und führt automatisch das automatisierte nicht-distributive Upgrade (ANDU) unabhängig von den Supportleistungen aus.
+Der BlueXP  Software Updates Service automatisiert die Bewertungs-, Planungs- und Ausführungsprozesse. Der intelligente Upgrade Advisor prognostiziert, welche Versionen am besten für die spezifische Umgebung geeignet sind. Er empfiehlt Versionen, um Probleme zu beheben, die Effizienz zu verbessern und die Systemsicherheit zu erhöhen. So können Kunden die beste Option für ihre Anforderungen ermitteln. Anschließend verteilt es das Softwarepaket und führt automatisch das automatisierte nicht-distributive Upgrade (ANDU) unabhängig von den Supportleistungen aus.
 
 
 

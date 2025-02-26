@@ -11,7 +11,7 @@ summary: Überprüfen Sie den Status Ihres ONTAP Updates, um über die nächsten
 
 
 [role="lead"]
-Nachdem der ONTAP-Aktualisierungsvorgang abgeschlossen ist, sollten Sie den Status des ONTAP-Updates überprüfen.
+Sie können BlueXP -Softwareupdates verwenden, um den Status des ONTAP-Updates zu überprüfen.
 
 .Schritte
 . Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.

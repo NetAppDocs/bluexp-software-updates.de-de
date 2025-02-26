@@ -4,16 +4,16 @@ permalink: get-started/login-software-updates.html
 keywords: bluexp login, software updates log in 
 summary: Melden Sie sich an, und greifen Sie auf den BlueXP  Software Updates Service zu. 
 ---
-= Zugriff auf BlueXP  Software-Updates
+= Zugriff auf BlueXP  Software-Updates, um ONTAP zu aktualisieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Sie können BlueXP -Softwareupdates verwenden, indem Sie sich bei NetApp BlueXP  anmelden.
+Um auf BlueXP -Softwareupdates zuzugreifen, müssen Sie sich bei BlueXP  anmelden.
 
-Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
+Sie können sich zur Anmeldung über Ihre NetApp Support-Website anmelden oder sich mit Ihrer E-Mail und einem Passwort für einen NetApp Cloud-Login registrieren. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
 
 .Schritte
 . Öffnen Sie einen Webbrowser und gehen Sie zum link:https://console.bluexp.netapp.com/["BlueXP-Konsole"^].
