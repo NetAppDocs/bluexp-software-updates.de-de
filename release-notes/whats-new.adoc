@@ -15,6 +15,16 @@ Informieren Sie sich über Neuerungen bei BlueXP  Software-Updates.
 
 
 
+== Bis 02. April 2025
+
+
+
+=== Risikoverringerung
+
+Im Abschnitt „Zusammenfassung“ der BlueXP -Softwareupdates können Sie nun die Gesamtzahl der Risiken anzeigen, die durch das Betriebssystem-Update vermindert werden können. Auf diese Weise können Benutzer die Sicherheits- und Stabilitätsverbesserungen auf ihrer Installationsbasis bewerten.
+
+
+
 == 07 August 2024
 
 
