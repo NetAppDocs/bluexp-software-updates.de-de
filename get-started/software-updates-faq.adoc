@@ -36,3 +36,5 @@ Dies liegt an der aktuellen ONTAP-Version und der Nichtverfügbarkeit des BlueXP
 *Was brauche ich, um Cluster zu entdecken?*
 
 Um ein ONTAP Update für das gewünschte Cluster durchzuführen, benötigen Sie die ONTAP-Cluster-IP und die Admin-Anmeldedaten für die Verbindung zum Cluster. Im Rahmen der Cluster-Erkennung müssen Sie die Angaben angeben, damit das ONTAP Update automatisch ausgeführt werden kann.
+
+Sie müssen außerdem über eine der folgenden Zugriffsrollen verfügen: Org-Administrator, Ordner- oder Projektadministrator oder Speicheradministrator.

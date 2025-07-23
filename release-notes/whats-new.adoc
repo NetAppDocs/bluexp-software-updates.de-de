@@ -15,6 +15,16 @@ Informieren Sie sich über Neuerungen bei BlueXP  Software-Updates.
 
 
 
+== 12 Mai 2025
+
+
+
+=== BlueXp-Zugriffsrolle erforderlich
+
+Sie benötigen nun eine der folgenden Zugriffsrollen, um Softwareupdates zu installieren: *Organisationsadministrator*, *Ordner- oder Projektadministrator*, *Speicheradministrator*, *Speicherbetrachter* oder *Speicherintegritätsspezialist*. Benutzer mit der Rolle „Speicherbetrachter“ verfügen über verschiedene Berechtigungen für Softwareupdates, können diese jedoch nicht installieren. link:https://docs.netapp.com/us-en/bluexp/concept-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
+
+
 == Bis 02. April 2025
 
 

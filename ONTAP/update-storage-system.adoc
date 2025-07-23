@@ -13,6 +13,9 @@ summary: Aktualisieren Sie Ihr ONTAP Storage-System, um von den neuen und verbes
 [role="lead"]
 Nachdem Sie die ONTAP Zielversion identifiziert und alle Blocker behoben haben, können Sie nun die Aktualisierung Ihres ONTAP Storage-Systems starten.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
 .Schritte
 . Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.
 +

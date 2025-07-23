@@ -13,6 +13,9 @@ summary: Informieren Sie sich vor einem Upgrade Ihres ONTAP Storage-Systems übe
 [role="lead"]
 Es ist sehr wichtig, die Vorteile und Risiken der ONTAP Zielversion zu vergleichen und zu verstehen, bevor die ONTAP Version für das Storage-System aktualisiert wird.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
 Sie können die Zielversion auswählen und sie mit der aktuellen Version vergleichen, um die Vorteile eines Updates auf die spezifische Version von ONTAP zu verstehen. Sie sehen auch die Risiken, die gelöst werden, und die neuen Risiken (falls vorhanden), die beim Aktualisieren auf die spezifische Version von ONTAP entstehen.
 
 
@@ -47,7 +50,7 @@ Sie möchten eine andere Version auswählen
 . Wählen Sie die Version aus, um die Vorteile und Risiken der Funktionen anzuzeigen.
 . Wählen Sie Informationen zu den Risiken aus, die gelöst werden sollen, zu den Risiken, die weiterhin bestehen bleiben, und zu den neuen Risiken, die nach der Aktualisierung eingeführt werden.
 . Optional klicken Sie auf *Updateplan herunterladen*, um eine Kopie des Aktualisierungsplans herunterzuladen.
-. Klicken Sie auf *Update starten*, um den Aktualisierungsvorgang zu starten.
+. Wählen Sie *Update starten*, um den Aktualisierungsvorgang zu starten.
 
 
 |===

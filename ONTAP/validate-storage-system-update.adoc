@@ -13,6 +13,9 @@ summary: Überprüfen Sie den Status Ihres ONTAP Updates, um über die nächsten
 [role="lead"]
 Sie können BlueXP -Softwareupdates verwenden, um den Status des ONTAP-Updates zu überprüfen.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator, Speicherbetrachter oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
 .Schritte
 . Wählen Sie in der linken BlueXP -Navigation *Systemzustand > Softwareupdates*.
 . Klicken Sie auf die Registerkarte *Verlauf*, um den Status des ONTAP-Updates anzuzeigen.

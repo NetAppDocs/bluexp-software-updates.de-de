@@ -13,11 +13,12 @@ summary: Überprüfen Sie die Voraussetzungen und Anforderungen, bevor Sie mit d
 [role="lead"]
 Sie sollten die Voraussetzungen und Anforderungen überprüfen, bevor Sie mit dem ONTAP Update fortfahren. Mithilfe von BlueXP -Softwareupdates können Sie die Einsatzbereitschaft Ihrer Betriebsumgebung, der Anmeldung, des Netzwerkzugriffs und des Webbrowsers überprüfen.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator, Speicherbetrachter oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
 Um BlueXP  Software-Updates zu verwenden, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
 
-* Eine BlueXP -Organisation ist verfügbar.
 * In BlueXP  wird eine Arbeitsumgebung eingerichtet.
-* Administrator-Privileges stehen zur Verfügung, um das Softwareupdate mithilfe von System Manager durchzuführen.
 * Administratoranmeldeinformationen sind für das gewünschte Cluster verfügbar, während das Softwareupdate durchgeführt wird.
 * Alle Nodes im Cluster senden AutoSupport-Daten.
 * Alle Nodes sollten unter ONTAP 9.10 oder höher ausgeführt werden.

@@ -13,6 +13,9 @@ summary: Beheben Sie ONTAP-Blocker und bestätigen Sie Warnungen, die verhindern
 [role="lead"]
 Nachdem Sie die ONTAP Zielversion für Ihr ONTAP Storage-System ermittelt haben, sollten Sie alle Blocker reparieren und bestätigen sowie die Warnungen vor dem Aktualisieren des ONTAP Storage-Systems prüfen.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen."^]
+
 Das Beheben und Quittieren aller Blocker ist obligatorisch und gewährleistet einen nahtlosen Softwareupdateprozess.
 
 .Schritte
@@ -21,19 +24,19 @@ Das Beheben und Quittieren aller Blocker ist obligatorisch und gewährleistet ei
 Die Liste der Cluster, für die ein Softwareupdate erforderlich ist, wird angezeigt.
 
 . Ermitteln Sie die ONTAP Zielversion für Ihr Storage-System. Informationen zur Identifizierung der ONTAP-Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP Versionen, um sich mit BlueXP  Software Updates vor- und zurück zu informieren"].
-. Nachdem Sie sich für die ONTAP-Zielversion entschieden haben, klicken Sie auf *Update vorbereiten*, um den Update-Prozess zu starten.
+. Nachdem Sie sich für die ONTAP Zielversion entschieden haben, wählen Sie *Für Update vorbereiten*, um den Update-Vorgang zu starten.
 +
 Die Liste der Blocker und Warnungen wird angezeigt.
 
 . Wählen Sie den Blocker aus, um die Anweisungen zum Beheben des Blocker anzuzeigen.
 . Führen Sie die angegebenen Schritte zum Beheben des Blocker manuell aus.
-. Wählen Sie die Blockierer aus, die behoben wurden, und klicken Sie auf *Auswahl bestätigen*, um zu bestätigen, dass Blockierer behoben wurden.
+. Wählen Sie die behobenen Blocker aus und wählen Sie *Auswahl bestätigen*, um zu bestätigen, dass die Blocker behoben wurden.
 
 
 
 NOTE: Sie müssen alle Blocker beheben und bestätigen, um mit der Aktualisierung fortzufahren.
 
-. Klicken Sie auf die Registerkarte *Warnungen*, um die Warnungen zu überprüfen, bevor Sie mit dem Softwareupdate fortfahren.
-. Klicken Sie auf die Registerkarte *quittieren*, um die Blockierer anzuzeigen, die behoben wurden.
-. Klicken Sie auf *Weiter zum Aktualisieren*, um mit dem Update-Vorgang fortzufahren.
+. Wählen Sie die Registerkarte *Warnungen*, um die Warnungen zu überprüfen, bevor Sie mit der Softwareaktualisierung fortfahren.
+. Wählen Sie die Registerkarte *Bestätigen*, um die behobenen Blocker anzuzeigen.
+. Wählen Sie *Mit Aktualisierung fortfahren*, um mit dem Aktualisierungsvorgang fortzufahren.
 
